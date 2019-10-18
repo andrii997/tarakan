@@ -1,0 +1,357 @@
+@media (max-width: 1200px) {
+.header-right a.header-phone {
+	font-size: 36px;
+}
+.banner h1.title {
+	font-size: 68px;
+}
+.banner h1.title > span {
+	font-size: 54px;
+}
+.banner h1.title > .title-checkbox {
+	font-size: 32px;
+}
+.banner h1.title > .title-checkbox img {
+	width: 38px;
+}
+.footer-right a.footer-phone {
+	font-size: 36px;
+}
+.banner {
+    -webkit-background-size: 100%;
+    background-size: auto 100%;
+}
+}
+
+@media (max-width: 992px) {
+.header-text .header-title {
+	font-size: 20px;
+}
+.header-text .header-subtitle {
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: 0;
+}
+.header-logo {
+	width: 90px;
+	margin-right: 20px;
+}
+.header-right a.header-phone {
+	font-size: 22px;
+	line-height: 26px;
+}
+.header-right a.header-call {
+	width: 200px;
+}
+.banner h1.title {
+	font-size: 52px;
+	line-height: 50px;
+}
+.banner h1.title > span {
+	font-size: 38px;
+}
+.banner h1.title > .title-checkbox .box {
+	font-size: 26px;
+}
+.banner h1.title > .title-checkbox img {
+	width: 32px;
+}
+.banner .form {
+	width: auto;
+}
+.benefit .col-right > span {
+	width: auto;
+	font-size: 20px;
+}
+.benefit .col-right {
+	font-size: 16px;
+}
+.benefit .col-left img {
+	width: 35px;
+}
+.benefit .form {
+	margin-top: 20px;
+}
+.benefit .form button {
+	left: 0;
+}
+.benefit .arrow {
+	width: 100%;
+}
+.service .subtitle,
+.help .subtitle,
+.help .subsub-title,
+.for-whom .subtitle,
+.sms-discount .subtitle,
+.guarantee .descr,
+.guarantee b,
+.certificates .subtitle,
+.check-out .subtitle {
+	font-size: 18px;
+	line-height: 20px;
+}
+.service .title,
+.work .title,
+.help .title,
+.prices .title,
+.for-whom .title,
+.sms-discount .title,
+.why-us .title,
+.guarantee .title,
+.certificates .title,
+.check-out .title,
+.discount .title {
+	font-size: 42px;
+	line-height: 42px;
+	padding: 0;
+}
+.work .subtitle {
+	font-size: 17px;
+}
+
+.prices .item {
+	font-size: 22px;
+	line-height: 24px;
+}
+.prices .item img {
+	width: 40px;
+}
+.prices {
+    background: #fff url(../img/back-vygoda5.jpg) no-repeat top center;
+    padding: 60px 0;
+}
+.help .item {
+	font-size: 22px;
+	line-height: 26px;
+}
+.help .item .container-img {
+	width: 140px;
+	margin: 0 auto;
+}
+.for-whom .item {
+	width: 100%;
+	font-size: 18px;
+	line-height: 20px;
+}
+.sms-discount form {
+	flex-direction: column;
+	align-items: flex-start;
+}
+.sms-discount .title {
+	margin-top: 30px;
+}
+.sms-discount .subtitle {
+	margin-bottom: 20px;
+}
+.sms-discount form input {
+	font-size: 26px;
+	max-width: 300px;
+	height: 40px;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	margin-bottom: 10px;
+}
+.sms-discount form button {
+	width: 150px;
+	position: relative;
+	    left: -8px;
+
+}
+.sms-discount form button img {
+	width: 100%;
+}
+.guarantee .container-img img{
+	margin-bottom: 32px;
+}
+.guarantee .title {
+	margin-bottom: 20px;
+}
+.check-out {
+	background: #fff;
+}
+.check-out .item:last-child {
+	margin-bottom: 30px;
+}
+.discount .subtitle {
+	font-size: 32px;
+}
+.discount .descr {
+	font-size: 22px;
+}
+.discount .form-descr {
+	font-size: 22px;
+	line-height: 24px;
+}
+.timer {
+	margin-top: 10px;
+}
+
+.footer-text .footer-title {
+	font-size: 20px;
+}
+.footer-text .footer-subtitle {
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: 0;
+}
+.footer-logo {
+	width: 90px;
+	margin-right: 20px;
+}
+.footer-right a.footer-phone {
+	font-size: 22px;
+	line-height: 26px;
+	margin-bottom: 10px;
+}
+.footer-right a.footer-call {
+	width: 200px;
+}
+}
+
+@media (max-width: 768px) {
+.service .item {
+	margin: 20px auto 0;
+	width: 100%;
+}
+.service .title,
+.work .title,
+.help .title,
+.prices .title,
+.for-whom .title,
+.sms-discount .title,
+.why-us .title,
+.guarantee .title,
+.certificates .title,
+.check-out .title,
+.discount .title,
+.benefit .title {
+	font-size: 28px;
+	line-height: 30px;
+}
+
+.service .subtitle,
+.help .subtitle,
+.help .subsub-title,
+.for-whom .subtitle,
+.sms-discount .subtitle,
+.guarantee .descr,
+.guarantee b,
+.certificates .subtitle,
+.check-out .subtitle,
+.benefit .subtitle,
+.benefit .form .form-subsubtitle,
+.work .subtitle {
+	font-size: 16px;
+	line-height: 18px;
+}
+.banner .form .form-subtitle {
+	font-size: 18px;
+}
+.banner .form input,
+.call-me input {
+	width: 100%;
+	font-size: 18px;
+	height: 35px;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+}
+.banner .form button,
+.call-me button {
+	width: 100%;
+	left: 0;
+}
+.banner .form button img,
+.call-me button img {
+	width: 100%;
+}
+.banner h1.title > .title-checkbox .box {
+	font-size: 18px;
+}
+.banner h1.title > span {
+	font-size: 32px;
+}
+.banner h1.title > .title-checkbox {
+	padding-top: 0;
+}
+.benefit50 {
+	width: 180px;
+	margin: 0 auto 30px;
+	display: block;
+}
+.benefit .box {
+	margin-bottom: 20px;
+}
+.countdownHolder {
+	    font: 32px/1.5 'Open Sans Condensed',sans-serif!important;
+	    width: 100%!important;
+}
+.timer-h {
+	width: 100%;
+}
+.timer-left {
+	left: 0!important;
+}
+.timer-text {
+	display: none;
+}
+.benefit .form-subtitle {
+	font-size: 22px;
+}
+.discount .subtitle {
+	font-size: 22px;
+}
+.discount .descr {
+	font-size: 18px;
+}
+.timer {
+	width: 100%;
+}
+.timer .countdownHolder {
+    font: 26px/1.5 'Open Sans Condensed',sans-serif!important;
+    width: 100%!important;
+}
+.banner {
+	padding: 40px 0;
+}
+
+.header-right a.header-phone,
+.header-right a.header-call{
+	margin: 10px auto 0;
+}
+
+.prices .item{
+	font-size: 18px;
+	line-height: 20px;
+}
+.help .item .container-img img {
+	width: 100%;
+}
+.help .item .container-img {
+	width: 100%;
+}
+.help .item {
+    font-size: 18px;
+    line-height: 20px;
+}
+.why-us .item .text .title {
+	font-size: 18px;
+}
+}
+
+@media (max-width: 480px) {
+	.help .item {
+	    font-size: 16px;
+	    line-height: 18px;
+	}
+	.benefit .form input {
+		width: 100%;
+	}
+	.benefit .form button {
+		width: 100%;
+	}
+	.benefit .form button img {
+		width: 100%;
+	}
+}
